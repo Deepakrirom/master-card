@@ -47,8 +47,9 @@ h6{
     color: white;
 }
 
-h5.number{
+h4.number{
     color:white;
+    list-style:none;
     margin-top: 5px;
     font-size: 15px;
     letter-spacing: 1px;
