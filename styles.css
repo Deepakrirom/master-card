@@ -40,7 +40,7 @@ h5{
     font-size: 12px;
     margin-right: 10px;
 }
-header .chips{
+.chips img{
     width: 40px;
 }
 h6{
@@ -48,6 +48,7 @@ h6{
 }
 
 h5.number{
+    color:white;
     margin-top: 5px;
     font-size: 15px;
     letter-spacing: 1px;
